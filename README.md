@@ -4,7 +4,7 @@ sudo nano /etc/gdm3/custom.conf
 
 
 
-2. instale o repositorio ppas.......... :
+2. instale o repositorio 
 sudo add-apt-repository ppa:kelebek333/nvidia-legacy
 
 
