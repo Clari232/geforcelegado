@@ -1,4 +1,10 @@
 1. Atualize seu computador com
+
+
+
+
+
+
    sudo apt update
    depois
    sudo apt upgrade
