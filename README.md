@@ -11,19 +11,35 @@
 
    
 2.Adicione o repositorio
+
+
+
+
  sudo add-apt-repository ppa:kelebek333/nvidia-legacy
 
 
 3. Instale o Repositorio
+
+
+
+
+   
 sudo apt install nvidia-340-updates nvidia-340-updates-dev xorg-modulepath-fix
 
 
 4.atualize de novo seu computador como no primeiro passo
+
+
+
+
   sudo apt update
   sudo apt upgrade
 
 
 5. Renicie seu computador e seja feliz
+
+
+
    sudo reboot
 
 
