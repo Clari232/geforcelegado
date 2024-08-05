@@ -6,7 +6,14 @@
 
 
    sudo apt update
+
+
+
    depois
+
+
+
+
    sudo apt upgrade
 
    
