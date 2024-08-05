@@ -33,6 +33,9 @@ sudo apt install nvidia-340-updates nvidia-340-updates-dev xorg-modulepath-fix
 
 
   sudo apt update
+
+
+  
   sudo apt upgrade
 
 
